@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">navegation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_change">Cammbiar</string>
+    <string name="enter_name">enter a name</string>
+    <string name="last_name">lastname</string>
+</resources>
